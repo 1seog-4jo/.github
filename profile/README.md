@@ -18,4 +18,11 @@
 
 <br/>
 <br/>
+
+## 🌱 수상
+<img width="500" alt="main" src="https://github.com/SeSAC-PIUM/.github/assets/77762680/ff6ead33-4d16-4052-8012-9bd766676a45">
+
+
+<br/>
+<br/>
 <br/>
