@@ -29,7 +29,7 @@
 <img width="400" alt="pium_003" src="https://github.com/SeSAC-PIUM/.github/assets/77762680/5d3b5924-ae0e-4b13-bf87-f4810846dd8f"> 
 <img width="400" alt="pium_003" src="https://github.com/SeSAC-PIUM/.github/assets/77762680/42841e31-f661-4953-b9b1-2105de80deb0"> 
 
-[🔗 Figma 링크](https://www.figma.com/proto/guqt0L4dH3JvXKZrOd1kzR/%EC%9D%BC%EC%84%9D%EC%82%AC%EC%A1%B0_%ED%94%BC%EC%9B%80_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C?page-id=0%3A1&type=design&node-id=1-1018&viewport=743%2C626%2C0.07&t=babcv3zFO01CWMd7-1&scaling=contain&starting-point-node-id=1%3A1018&mode=design)
+### [🔗 Figma 링크](https://www.figma.com/proto/guqt0L4dH3JvXKZrOd1kzR/%EC%9D%BC%EC%84%9D%EC%82%AC%EC%A1%B0_%ED%94%BC%EC%9B%80_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C?page-id=0%3A1&type=design&node-id=1-1018&viewport=743%2C626%2C0.07&t=babcv3zFO01CWMd7-1&scaling=contain&starting-point-node-id=1%3A1018&mode=design)
 <br/>
 <br/>
 
