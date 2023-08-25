@@ -1,7 +1,7 @@
 # SeSAC-PIUM (피움)
 <img width="800" alt="pium_001" src="https://github.com/SeSAC-PIUM/.github/assets/77762680/86e8b609-5b25-4940-869a-f930eb8e1c0e">
 
-### [🔗 배포 링크](sesac-pium.netlify.app/)
+### [🔗 배포 링크](https://sesac-pium.netlify.app/)
 > SeSAC 수강생들을 위한 프로젝트 매칭 플랫폼
 
 <br/>
