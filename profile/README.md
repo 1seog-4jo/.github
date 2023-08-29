@@ -37,7 +37,72 @@
 <br/>
 <br/>
 
+
+
 ## ✨ 페이지 설명
+
+|메인|온보딩|
+|:----:|:----:|
+|<img src='https://github.com/SeSAC-PIUM/.github/assets/77762680/7ab6ffed-f69d-4ef7-8eeb-c0ea4c538e77' width="300" />|<img src='https://github.com/SeSAC-PIUM/.github/assets/77762680/b4e44ff1-fa9c-4d41-8cf4-af352728c1ea' width="300"/><br/><br/><br/><img src='https://github.com/SeSAC-PIUM/.github/assets/77762680/d424331e-c329-4217-b625-178ddee7138e' width="300" />|
+
+<pre>
+<strong> ✨메인 </strong> </br>
+[미정]</br>- 시안에 맞게 UI 디테일 수정 </br>- 반복되는 코드를 함수로 묶거나 반복문을 사용하여 간결하게 하는 작업</br>
+[희광]</br>- JavaScript를 활용하여 header,footer 각 페이지별 동일하게 구현</br>- flex를 이용한 main page 구현</br>- swiper library를 통해 banner 구현</br>- JavaScript를 활용하여 하트클릭  on/off 구현</br>- localStorage를 활용하여  하트 수량 체크 구현</br> 
+</pre>
+
+<pre>
+<strong> ✨온보딩 </strong> </br>
+[지현]</br>- 설명텍스트 </br>
+[소연]</br>- 레이아웃 구성과 페이지 이동 기능 구현</br>
+</pre>
+
+
+|랜덤매칭|공간예약|
+|:----:|:----:|
+|<img src='https://github.com/SeSAC-PIUM/.github/assets/77762680/ff6ea286-4bc3-4b0b-95f5-8c1b11c2b678' width="300"/>|<img src='https://github.com/SeSAC-PIUM/.github/assets/77762680/1388fdf0-63b8-4a17-a101-8cb91c93954d' width="300"/>|
+
+<pre>
+<strong> ✨랜덤매칭 </strong> </br>
+[소연]</br>- sweetalert2 를 이용한 모달창 구현</br>
+</pre>
+
+<pre>
+<strong> ✨공간예약 </strong> </br>
+[지현]</br>- 설명텍스트 </br>
+</pre>
+
+|마이페이지|프로젝트 리스트|
+|:----:|:----:|
+|<img src='https://github.com/SeSAC-PIUM/.github/assets/77762680/384cce59-730c-44fc-866f-e8c3ff69d0f8' width="300"/>|<img src='https://github.com/SeSAC-PIUM/.github/assets/77762680/3e617b3d-090b-4cb4-ac5a-adfee1bab227' width="300"/>|
+
+
+<pre>
+<strong> ✨마이페이지 </strong> </br>
+[지현]</br>- 설명텍스트 </br>
+</pre>
+
+<pre>
+<strong> ✨프로젝트 리스트 </strong> </br>
+[미정]</br>- 직무, 캠퍼스 선택 기능 구현</br>- 캠퍼스 선택 시 취소할 수 있고 5개까지 선택 가능 기능 구현</br>- 스크롤바를 끝까지 내리면 새로운 리스트가 한 줄씩 나오는 기능 구현</br>- 반응형 구현</br>-검색어를 입력하고 제출하면 주소를 이용해 Project list page로 입력값을 전달할 수 있도록 구현</br>
+</pre>
+
+|프로젝트 생성|프로젝트 상세|
+|:----:|:----:|
+|<img src='https://github.com/SeSAC-PIUM/.github/assets/77762680/c9f4e073-9ebe-40ae-bc03-1a29a4040736' width="300"/>|<img src='https://github.com/SeSAC-PIUM/.github/assets/77762680/1197d696-19f4-4e2e-b70c-e214f1c9d6f3' width="300"/>|
+
+
+<pre>
+<strong> ✨프로젝트 생성 </strong> </br>
+[미정]</br>- 반응형 구현</br>- 수량 선택 기능 구현</br>- input을 이용해 정보를 입력 기능 구현</br>- datepicker 플러그인을 사용하여 날짜를 선택 기능 구현</br>- CKeditor 플러그인을 사용하여 텍스트편집, 사진편집 등 기능 구현</br>
+</pre>
+
+<pre>
+<strong> ✨프로젝트 상세 </strong> </br>
+[희광]</br>- 모집현황 고정을 위해 position.: fixed 를 주어 스크롤이 내려갈때 따라가게 구현</br>
+</pre>
+
+
 <br/>
 <br/>
 
